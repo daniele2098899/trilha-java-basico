@@ -19,10 +19,15 @@ Este projeto foi desenvolvido com o objetivo de praticar os fundamentos da lingu
 - Solicita o saldo inicial
 - Exibe uma mensagem de boas-vindas personalizada com as informações da conta
 
-## ▶️ Como executar
+📚 Requisitos
+Java JDK instalado (versão 8 ou superior)
 
-1. Clone este repositório ou copie o arquivo `ContaTerminal.java`.
-2. Compile o arquivo Java:
+Terminal ou prompt de comando
 
-```bash
-javac ContaTerminal.java
+📁 Estrutura do projeto
+Copiar
+Editar
+ContaTerminal/
+│
+├── ContaTerminal.java
+└── README.md
